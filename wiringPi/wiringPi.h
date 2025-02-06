@@ -126,7 +126,7 @@ typedef struct {
 #define SUNXI_PWM_PUL_START                     (sunxi_gpio_info_t.pwm_bit_pulse)
 #endif
 
-#define H3_PWM_BASE                             (0x01c21400)
+#define H3_PWM_BASE                             (0x01C21000)
 #define H6_PWM_BASE                             (0x0300A000)
 #define H616_PWM_BASE                           (0x0300A000)
 
