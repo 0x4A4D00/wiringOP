@@ -1,3 +1,10 @@
+## _FIX_
+### This is a modified version of WiringOP to fix the PWM error on H3 processors. ([solution](https://github.com/orangepi-xunlong/wiringOP/issues/96#issuecomment-1982753249))
+`
+error:
+wiringPiSetup: mmap (PWM) failed: Invalid argument
+`
+
 ## How to download wiringOP
 
 ```
